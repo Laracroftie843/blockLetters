@@ -1,0 +1,47 @@
+#Ashley Elizabeth Harriett
+#I Love Bunnies
+#First Initial
+first_initial_list1 = (" "," ","A"," "," ")
+first_initial_list2 = (" ","A"," ","A"," ")
+first_initial_list3 = ("A"," "," "," ","A")
+first_initial_list4 = ("A","A","A","A","A")
+first_initial_list5 = ("A"," "," "," ","A")
+first_initial_list6 = ("A"," "," "," ","A")
+first_initial_list7 = ("A"," "," "," ","A")
+for line in [first_initial_list1, first_initial_list2, first_initial_list3, first_initial_list4, first_initial_list5,first_initial_list6, first_initial_list7]:
+  print(line)
+print('\n')
+
+#Middle Initial
+mi_list1 = ("E","E","E","E","E")
+mi_list2 = ("E"," "," "," "," ")
+mi_list3 = ("E"," "," "," "," ")
+mi_list4 = ("E","E","E"," "," ")
+mi_list5 = ("E"," "," "," "," ")
+mi_list6 = ("E"," "," "," "," ")
+mi_list7 = ("E","E","E","E","E")
+print(mi_list1)
+print(mi_list2)
+print(mi_list3)
+print(mi_list4)
+print(mi_list5)
+print(mi_list6)
+print(mi_list7)
+print('\n')
+
+#Last Initial
+li_list1 = ("H"," "," "," ","H")
+li_list2 = ("H"," "," "," ","H")
+li_list3 = ("H"," "," "," ","H")
+li_list4 = ("H","H","H","H","H")
+li_list5 = ("H"," "," "," ","H")
+li_list6 = ("H"," "," "," ","H")
+li_list7 = ("H"," "," "," ","H")
+print(li_list1)
+print(li_list2)
+print(li_list3)
+print(li_list4)
+print(li_list5)
+print(li_list6)
+print(li_list7)
+print('\n')
