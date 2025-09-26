@@ -13,7 +13,7 @@ This Python script prints your initials (**A.E.H.**) using ASCII-style block let
 ---
 
 ## Sample Output
-(' ', ' ', 'A', ' ', ' ')
+(' ', ' ', 'A', ' ', ' ')/
 (' ', 'A', ' ', 'A', ' ')
 ('A', ' ', ' ', ' ', 'A')
 ('A', 'A', 'A', 'A', 'A')
